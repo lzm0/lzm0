@@ -7,7 +7,7 @@
   \/_____/ \/_/ \/_/  \/_/ \/_____/     \/_____/ \/_/ 
 
 ```
-- 🔭 I’m currently a Software Engineer using Scala
+- 🔭 I’m currently a Computer Science student at the University of Toronto
 - 📕 Functional Programmer
 - 😄 Pronouns: he/him/his
 - 📮 You can contact me via github@zimo.li
